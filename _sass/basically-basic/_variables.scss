@@ -9,11 +9,11 @@ $large: 1024px !default;
 $xlarge: 1280px !default;
 
 /* Fluid type */
-$base-font-size: 16px !default;
+$base-font-size: 17px !default;
 $min-vw: $small !default;
 $max-vw: $xlarge !default;
-$min-font-size: 14px !default;
-$max-font-size: 18px !default;
+$min-font-size: 16px !default;
+$max-font-size: 20px !default;
 
 /* Calculate Modular Scale */
 $modular-scale-1: 1.067 !default; /* small */
@@ -42,11 +42,10 @@ $h6-min: ($base-font-size / $modular-scale-1) !default;
 $h6-max: ($base-font-size / $modular-scale-2) !default;
 
 /* Base font family */
-$base-font-family: "Fira Sans", sans-serif !default;
+$base-font-family: "Helvetica Light", "Heiti SC Light", -apple-system, "Dengxian", "Arial", "Microsoft Yahei Light", sans-serif !default;
 /* Other font families */
-$headline-font-family: $base-font-family !default;
-$monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier,
-  monospace !default;
+$headline-font-family: -apple-system, $base-font-family !default;
+$monospace-font-family: Monaco, 'scpro', Menlo, Consolas, "Courier New", Courier, monospace !default;
 
 /* Colors */
 $base-color: #393e46 !default;
