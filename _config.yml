@@ -29,7 +29,7 @@ github_username: Richard-PengR
 logo: /assets/images/logo.jpg # path of site logo, e.g. "/assets/images/logo.png"
 google_analytics: UA-106523880-1
 disqus:
-  Shortname: richards-xyz
+  Shortname: richardsp-xyz
 search: true # true, false (default)
 search_full_content: true # true, false (default)
 search_provider: # lunr (default), algolia
