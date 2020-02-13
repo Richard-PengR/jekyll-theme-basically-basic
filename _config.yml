@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: zh-CN
-title: 理想国 
+title: 自修室
 email: pya200169@hotmail.com
 description: no one i think is in my tree.
 baseurl: "/" # the optional subpath of your site, e.g. "/blog"
