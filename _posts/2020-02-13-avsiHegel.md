@@ -4,13 +4,13 @@ categories:
   - Study
 excerpt: "《牛津通识读本：黑格尔》阅读笔记"
 tags:
-  - 总结
+  - 笔记
 last_modified_at: 2020-2-13T30:14:32-19:15
 ---
 
 《牛津通识读本：黑格尔》在我的书架上躺了一两年了，这两天终于读完了它。
 
-<p align="center"><img src = "https://img3.doubanio.com/view/subject/l/public/s28281891.jpg" width = "52%"/></p>
+<p align="center"><img src = "/assets/images/ahegel.jpg" width = "52%"/></p>
 
 <br/>
 
