@@ -1,7 +1,7 @@
 ---
 title: "近期书单"
 categories:
-  - coding
+  - life
 excerpt: "为 2020 世界读书日写点东西"
 tags:
   - 笔记
