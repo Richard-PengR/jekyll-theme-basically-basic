@@ -106,4 +106,4 @@ last_modified_at: 2020-2-13T30:14:32-19:15
 
 本书最后一段很有意思：
 
-> It is entertaining, if fuiteless, to speculate on what thinkers long dead would say if they could return to life and see what has happened to their ideas. Few of them could be as startled as Hegel would have been to see that the historical culmination of his philosophy has not been comprehension of the absolute idea, but a vision of a communist society that for more than a hundred years has inspired revolutionary movements around the world.
+> It is entertaining, if fruiteless, to speculate on what thinkers long dead would say if they could return to life and see what has happened to their ideas. Few of them could be as startled as Hegel would have been to see that the historical culmination of his philosophy has not been comprehension of the absolute idea, but a vision of a communist society that for more than a hundred years has inspired revolutionary movements around the world.
