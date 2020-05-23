@@ -129,7 +129,7 @@ DISPLAYSURF.fill(WHITE)
 绘制<b>多边形</b>，使用 `pygame.draw.polygon(surface, color, pointlist, width)`，其中 `pointlist` 是点集，可以用一个元素为坐标二元组的 tuple 表示；`width` 是个可选参数，代表多边形边框的宽度，不传 `width` 参数时默认将颜色填充到整个多边形区域内。例：
 ```python
 GREEN = (0, 255, 0)
-pygame.draw.plygon(DISPLAYSURF, GREEN, ((146, 0), (291, 106), (236, 277), (56, 277), (0, 106)))
+pygame.draw.polygon(DISPLAYSURF, GREEN, ((146, 0), (291, 106), (236, 277), (56, 277), (0, 106)))
 ```
 
 绘制**线段**，使用 `pygame.draw.line(surface, solor, start_point, end_point, width)`，它将从点 `start_point` 画一条线段到 `end_point`。除此之外，还可以使用 `pygame.draw.lines(surface, color, closed, pointlist, width)`，它将从 `pointlist` 中的第一个点开始，依次画一条直线指向下一个点，如果 `closed` 参数填 `True`，将会绘制最后一个点到第一个点的线段，反之则不画。这个功能类似绘制多边形。例：
