@@ -161,4 +161,65 @@ pixObj = pygame.PixelArray(DISPLAYSURF)
 pixObj[480][380] # 把坐标为 (480, 380) 的点设置为黑色
 ```
 
-To be continued...
+### 简单的动画
+
+来看一个简单的猫猫移动的动画：
+
+```python
+import pygame, sys
+from pygame.locals import *
+
+pygame.init()
+
+FPS = 30 # frames per second setting
+fpsClock = pygame.time.Clock()
+
+# set up the window
+DISPLAYSURF = pygame.display.set_mode((400, 300), 0, 32)
+pygame.display.set_caption('Animation')
+
+WHITE = (255, 255, 255)
+catImg = pygame.image.load('cat.png')
+catx = 10
+caty = 10
+direction = 'right'
+
+while True: # the main game loop
+    DISPLAYSURF.fill(WHITE)
+
+    if direction == 'right':
+        catx += 5
+        if catx == 280:
+            direction = 'down'
+    elif direction == 'down':
+        caty += 5
+        if caty == 220:
+            direction = 'left'
+    elif direction == 'left':
+        catx -= 5
+        if catx == 10:
+            direction = 'up'
+    elif direction == 'up':
+        caty -= 5
+        if caty == 10:
+            direction = 'right'
+
+    DISPLAYSURF.blit(catImg, (catx, caty))
+
+    for event in pygame.event.get():
+        if event.type == QUIT:
+            pygame.quit()
+            sys.exit()
+
+    pygame.display.update()
+    fpsClock.tick(FPS)
+```
+
+动画其实是多张不同的图片连续显示。pygame 中制作游戏动画的时候要需要设置**帧速率** FPS（单位 Hz），一般情况下 FPS = 30 或 60 动画就非常流畅。此外，给 FPS 赋值后，需要定义一个 `pygame.time.Clock` 对象，在每次游戏循环的末尾调用这个对象中的 `tick()` 方法来保证最大帧速率就是我们所定义的 FPS。
+
+如果我们需要**加载外部图像**（PNG，JPG等），我们需要调用`pygame.image.load()`函数，函数的参数为图像的文件名字符串。这个函数返回另外一个 Surface 对象，这个 Surface 对象上存储有我们所需要的图片，但我们需要在“显示 Surface 对象”上加载这张图片，这时就需要将存储图像的 Surface 对象复制（blit）到“显示 Surface 对象”上，调用“显示 Surface 对象”的方法 `blit()` 。例：
+
+```python
+catImg = pygame.image.load("cat.png") # 创建外部图像的 Surface 对象
+DISPLAYSURF.blit(catImg, (catx, caty)) # 将外部图像的 Surface 对象复制到“显示 Surface”，图像复制到的位置的左上角坐标为 (catx, caty)
+```
