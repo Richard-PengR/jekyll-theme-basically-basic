@@ -223,3 +223,5 @@ while True: # the main game loop
 catImg = pygame.image.load("cat.png") # 创建外部图像的 Surface 对象
 DISPLAYSURF.blit(catImg, (catx, caty)) # 将外部图像的 Surface 对象复制到“显示 Surface”，图像复制到的位置的左上角坐标为 (catx, caty)
 ```
+
+To be continued...
