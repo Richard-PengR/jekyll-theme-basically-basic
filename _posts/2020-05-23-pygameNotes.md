@@ -16,7 +16,7 @@ last_modified_at: 2020-05-23T30:21:32-22:02
 import pygame, sys
 from pygame.locals import *
 
-pygame.init() # 初始化。在倒入 pygame 模块之后总是需要初始化。
+pygame.init() # 初始化。在导入 pygame 模块之后总是需要初始化。
 DISPLAYSURF = pygame.display.set_mode((400, 300))
 pygame.display.set_caption('Hello World')
 while True: # main game loop
@@ -224,4 +224,6 @@ catImg = pygame.image.load("cat.png") # 创建外部图像的 Surface 对象
 DISPLAYSURF.blit(catImg, (catx, caty)) # 将外部图像的 Surface 对象复制到“显示 Surface”，图像复制到的位置的左上角坐标为 (catx, caty)
 ```
 
-To be continued...
+此外，pygame 还有设置字体、播放声音的功能，此处暂不提。
+
+---
