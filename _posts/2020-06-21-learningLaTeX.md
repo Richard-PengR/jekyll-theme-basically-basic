@@ -54,7 +54,7 @@ Hello, world!
 
 其中，`\documentclass[12pt, letterpaper]{article}` 在花括号之前的方括号中写入了一些参数，`12pt` 规定了正文字体大小，`letterpaper` 规定了纸张类型为信纸。一些其他的纸张类型例如 `a4paper`、`legalpaper`。
 
-`\usepackage[utf8]{inputenc}` 规定了文档中字符的编码方式为 UTF-8。使用 UTF-8 编码是一个比较好的选择。
+`\usepackage[utf8]{inputenc}` 规定了文档中字符的编码方式为 UTF-8。使用 UTF-8 编码是一个比较好的选择。不过这一段代码在使用 xelatex 引擎编译的时候是可以省去的，因为 xelatex 默认将输入的字符以 UTF-8 编码存储。在中文环境下我们一般使用 xelatex 引擎而非 pdflatex 引擎来编译。
 
 `\title{My First \LaTeX Article}` 规定了文章标题。
 
