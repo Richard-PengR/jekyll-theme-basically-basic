@@ -1,10 +1,11 @@
 ---
 title: "pygame 学习笔记"
 categories:
-  - life
+  - coding
 excerpt: "争取用这个做大作业"
 tags:
-  - macOS
+  - python
+  - coding
 last_modified_at: 2020-05-23T30:21:32-22:02
 ---
 
