@@ -56,7 +56,7 @@ Hello, world!
 
 `\usepackage[utf8]{inputenc}` 规定了文档中字符的编码方式为 UTF-8。使用 UTF-8 编码是一个比较好的选择。不过这一段代码在使用 xelatex 引擎编译的时候是可以省去的，因为 xelatex 默认将输入的字符以 UTF-8 编码存储。在中文环境下我们一般使用 xelatex 引擎而非 pdflatex 引擎来编译。
 
-`\title{My First \LaTeX Article}` 规定了文章标题。
+`\title{My First \LaTeX{} Article}` 规定了文章标题。
 
 `\author{Richard}` 规定了文章的作者。在 `\author{...}` 里可以加上致谢词，致谢词的内容写在 `\thanks{...}` 的花括号里。这一段致谢词会以脚注的形式写在第一页的页脚里。
 
