@@ -2,7 +2,7 @@
 title: "LaTeX 基础"
 categories:
   - coding
-excerpt: "争取用这个做大作业"
+excerpt: "放弃 MS Word 的第一步"
 tags:
   - LaTeX
 last_modified_at: 2020-06-21T30:21:32-22:02
