@@ -42,14 +42,17 @@ $h6-min: ($base-font-size / $modular-scale-1) !default;
 $h6-max: ($base-font-size / $modular-scale-2) !default;
 
 /* Base font family */
-$base-font-family: "Helvetica Light", "Heiti SC Light", -apple-system, "Dengxian", "Arial", "Microsoft Yahei Light", sans-serif !default;
+$base-font-family: "Helvetica Neue Light", "Heiti SC Light", -apple-system, "Dengxian", "Arial", "Microsoft Yahei Light", sans-serif !default;
 /* Other font families */
 $headline-font-family: -apple-system, $base-font-family !default;
 $monospace-font-family: Monaco, 'scpro', Menlo, Consolas, "Courier New", Courier, monospace !default;
 
 /* Colors */
+$gray: #7a8288 !default;
+$dark-gray: mix(#000, $gray, 50%) !default;
+$darker-gray: mix(#000, $gray, 70%) !default;
 $base-color: #393e46 !default;
-$text-color: #181c22 !default;
+$text-color: $darker-gray !default;
 $accent-color: #00838a !default;
 $background-color: #fff !default;
 $code-background-color: tint($base-color, 95%) !default;
