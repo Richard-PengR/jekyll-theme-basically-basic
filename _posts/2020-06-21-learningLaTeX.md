@@ -14,6 +14,9 @@ last_modified_at: 2020-06-21T30:21:32-22:02
 
 还是由于我懒，我也没有写如何搭建 $\LaTeX{}$ 编译环境，想要在电脑上安装 $\LaTeX$ 请移步搜索引擎 XD。不过上文提到的 [Overleaf](www.overleaf.com) 是一个很优秀的可以在线编译 $\LaTeX$ 的网站，倾心推荐。
 
+* toc
+{:toc}
+
 ---
 
 ## 一段最简单的 $\LaTeX$ 代码

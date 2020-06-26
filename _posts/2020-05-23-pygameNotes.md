@@ -11,7 +11,7 @@ last_modified_at: 2020-05-23T30:21:32-22:02
 
 这是 <i>Making Games with Python & Pygame</i> 一书的学习笔记与示例代码。
 
-### 一个简单的 Hello World 窗口：
+### 一个简单的 Hello World 窗口
 
 ```python
 import pygame, sys
@@ -38,7 +38,7 @@ Surface 对象表示一个矩形的 2D 图像，可以通过调用 pygame 中的
 
 事件即 <b>Event 对象</b>，由 `pygame.event.get()` 得到。事件包括但不限于鼠标点击、键盘按键等。事件分为很多类型，有 Event 对象的成员变量那个 `type` 得到，即 `event.type`。`QUIT` 是 `pygame.locals` 中的一个常量，代表一种事件类型。`pygame.locals` 中还有很多其他的事件类型常量。由于在程序第一行写了 `from pygame.locals import *`，因此在使用 `pygame.locals` 中的变量或方法时不需要在写模块名。
 
-### **颜色**：
+### **颜色**
 
 pygame 中的颜色用含 3 个 0 - 255 的整数的 tuple 来表示，这个 tuple 叫做 RGB 值，这三个整数分别代表红、绿、蓝这三种基本色的量。
 
@@ -46,7 +46,7 @@ pygame 中的颜色用含 3 个 0 - 255 的整数的 tuple 来表示，这个 tu
 
 pygame 的颜色也可以用 `pygame.Color` 对象表示，用 `pygame.Color()` 创建：`myColor = pygame.Color(255, 0, 0, 128)`，若使用不透明颜色，也可只传入 3 个参数。
 
-### **矩形**：
+### **矩形**
 
 矩形可用含有 4 个整数的 tuple 表示，四个整数分别代表左上角的 X 坐标、左上角的 Y 坐标、矩形的宽度、矩形的高度，单位是像素。
 
@@ -71,7 +71,7 @@ pygame 的颜色也可以用 `pygame.Color` 对象表示，用 `pygame.Color()` 
 |`myRect.midtop`|含两个整数的一个 tuple：`(centerx, top)`|
 |`myRect.midbottom`|含两个整数的一个 tuple：`(centerx, bottom)`|
 
-### 基本的**绘制函数**：
+### 基本的**绘制函数**
 
 先看一段代码：
 
