@@ -8,7 +8,7 @@ tags:
 last_modified_at: 2020-06-21T30:21:32-22:02
 ---
 
-本文是根据 [Overleaf](www.overleaf.com) 上的 [<i>Learn $\LaTeX$ in 30 minutes</i>](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) 指导教程写成的学习笔记。
+本文是根据 [Overleaf](https://www.overleaf.com) 上的 [<i>Learn $\LaTeX$ in 30 minutes</i>](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) 指导教程写成的学习笔记。
 
 由于我懒，没有放演示图片进来，要看效果还请自己打开编辑器把代码敲出来编译一下 XD。
 
