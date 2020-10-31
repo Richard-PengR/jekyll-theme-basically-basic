@@ -32,7 +32,7 @@ last_modified_at: 2020-4-23T30:10:00-10:01
 - George Lakoff —— *Moral Politics: How Liberals and Conservatives Think*
 - 傅高义 —— *邓小平时代*
 - Joseph Raz —— *The Morality of Freedom*
-- 马克思•韦伯 —— *新教伦理与资本主义精神*
+- 马克斯•韦伯 —— *新教伦理与资本主义精神*
 - 约翰•斯坦贝克 —— *愤怒的葡萄*
 - 雨果 —— *悲惨世界*
 
