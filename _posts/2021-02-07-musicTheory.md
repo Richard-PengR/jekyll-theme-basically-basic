@@ -91,7 +91,7 @@ Meters in which the beat is divided into twos are **simple meters**, while **com
 
 <img src="/assets/images/compoundMeterSig.png"/>
 
-## Chapter 2: Introduction to Melody and Two-Voice Counterpoint
+# Chapter 2: Introduction to Melody and Two-Voice Counterpoint
 
 ## Guidelines for Writing Melodies
 
