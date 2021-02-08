@@ -79,7 +79,7 @@ When we move the lower pitch of a simple interval up one octave so that it is pl
 
 # Chapter 1B: Musical Time
 
-## Simple and Compound
+## Simple and Compound Meters
 
 Meters in which the beat is divided into twos are **simple meters**, while **compound meters** are meters in which the beat is divided into threes.
 
@@ -135,6 +135,8 @@ Fux presents a series of five steps&mdash;or **species**&mdash;each of which iso
 3. Approach perfect consonances using contrary motion; the single context in which similar motion is permitted occurs when the upper voice moves by step to the octave or fifth.
 4. Begin and end your counterpoint on $\hat1$ (unless the counterpoint appears above the CF, when it may begin on $\hat5$).
 5. In minor, use the lowered form of $\hat6$ and $\hat7$; raise $\hat7$ to create a leading tone only in the penultimate measure, and raise $\hat6$ when it precedes the leading tone.
+
+Notice that the leaps allowed in first-species counterpoint are (thirds), fourths, fifths, ascending minor sixths and octaves.
 
 #### Guidelines
 
