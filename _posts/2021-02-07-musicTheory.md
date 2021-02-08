@@ -77,6 +77,8 @@ When we move the lower pitch of a simple interval up one octave so that it is pl
     - **Imperfect consonances**: the major and minor thirds and sixths.
 - **Dissonant intervals**: the second, the seventh, and all diminished and augmented intervals. Notice that the perfect fourth is usually viewed as a dissonant interval.
 
+---
+
 # Chapter 1B: Musical Time
 
 ## Simple and Compound Meters
@@ -90,6 +92,8 @@ Meters in which the beat is divided into twos are **simple meters**, while **com
 ### Meter Signature for Compound meters
 
 <img src="/assets/images/compoundMeterSig.png"/>
+
+---
 
 # Chapter 2: Introduction to Melody and Two-Voice Counterpoint
 
