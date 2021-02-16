@@ -1,5 +1,5 @@
 ---
-title: "Notes for Studying Music Theory"
+title: "Notes for Learning Music Theory"
 categories:
   - life
 excerpt: "Following *The Complete Musician* by Steven G. Laitz"
@@ -8,7 +8,7 @@ tags:
 last_modified_at: 2021-2-5T30:21:32-22:42
 ---
 
-These are the notes for studying music theory, following the textbook *The Complete Musician: An Integrated Approach to Tonal Theory, Analysis, and Listening* by Steven G. Laitz.
+These are the notes for learning music theory, following the textbook *The Complete Musician: An Integrated Approach to Tonal Theory, Analysis, and Listening* by Steven G. Laitz.
 
 * TOC
 {:toc}
