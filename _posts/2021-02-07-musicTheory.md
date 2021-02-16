@@ -191,4 +191,153 @@ Second-species counterpoint uses a single type a dissonance: the **unaccented pa
 3. Place leaps within, rather than between, measures.
 4. Label every interval, and mark each dissonant passing tone with an asterisk.
 
+---
+
+# Chapter 3: Triads, Seventh Chords, and Texture
+
+## Traids
+
+Chords that comprise three distinct pitches stacked in thirds are called **triads**.
+
+<img src="/assets/images/triad-C.png"/>
+
+There are four **qualities** above a given root: **major**, **minor**, **augmented** and **diminished**. Major and minor triads are *consonant* triads while augmented and diminished triads are *dissonant* triads.
+
+<img src="/assets/images/4typesOfTriads.png"/>
+
+<img src="/assets/images/triadTypes.png"/>
+
+- Major and minor triads span a P5.
+- Augmented triads span an A5.
+- Diminished triads span a d5.
+
+The tight **spacing** (or voicing) of chordal members is called **close position**. If pitches of a triad are variously distributed in register, we say the triad is in **open position**.
+
+### Triad Inversion
+
+- **Root position**: the root of the triad is in the bass.
+- **Firt inversion**: the third of the triad is in the bass.
+- **Second inversion**: the fifth of the traid is in the bass.
+
+<img src="/assets/images/triadInversion.png"/>
+
+In first inversion, major and minor chords are less stable than in root position, because they include a perfect fourth and a major or minor sixth. This is not true for dimished triads: In root position they span a dissonant diminshed fifth, while in first inversion, they span a consonant sixth (the tritone is not audible for it does not involve the bass).
+
+In second inversion, major and minor chords are regarded as dissonant because the perfect fourth is now formed with the bass. Notice that tridas in root position and first inversion are common in tonal music, while second inversion second-inversion triads occur only in restricted contexts.
+
+### Figured bass
+
+A figured bass has two components:
+1. A bass note.
+2. Numbers, or “figures”—listed under the bass—that indicate the generic intervals formed by the bass and each of the other voices. The numbers are typically listed one below another, from largest to smallest.
+
+Root position yield the figure $^5_3$, first inversion $^6_3$, second inversion $^6_4$. To fill out a figured bass to chords is to **realize** a figured bass.
+
+<img src="assets/images/figuredBass.png"/>
+
+#### Additional Figured Bass Conventions
+
+**Abbreviations**:
+- "$^5_3$" can be omitted entirely.
+- "$^6_3$"" can be omitted to "6".
+- We do not abbeviate a second-inversion triad.
+
+<img src="/assets/images/fb1.png"/>
+<img src="/assets/images/fb2.png"/>
+
+- If there is an accidental on a pitch above the bass, the same accidental is attached to the corresponding interval in the figured bass.
+- If an accidental occurs on the pitch that is a third above the bass, the number $3$ is omitted and only the accidental is written.
+- A plus sign or a slash through a number raises the pitch by one half step.
+- If the bass note is chromatically altered, nothing changes in the figure, since the figure indicates only intervals above the bass
+
+<img src="/assets/images/fbc.png"/>
+
+**Chromaticism**:
+- Accidentals appear next to the figure:
+    - *flat sign*: the specified pitch has a flat accidental (this can also have the generic meaning of “lower by a half step”)
+    - *sharp sign*: the specified pitch has a sharp accidental (this can also have the generic meaning of “raise by a half step”)
+    - *natural sign*: the specified pitch has a natural sign on it.
+- Accidentals appearing alone refer to the third above the bass.
+- Chromaticism in the bass voice cannot&mdash;and need not&mdash;be shown in figured bass notation. <img src="/assets/images/caBass.png"/>
+- The figures do not determine the registral placement of notes in the upper voices.
+- Chromatic alterations in the figured bass apply only to the pitches that lie directly above the bass&mdash;they do not carry through the measure.
+- The dash (&mdash;) indicates that a single voice moves by the intervals indicated on each end of the dash.
+
+<img src="/assets/images/fbAC.png"/>
+
+### Triads and Harmonic Analysis
+
+<img src="/assets/images/triadTypesinMaj.png"/>
+
+<img src="/assets/images/triadTypesinMin.png"/>
+
+Triads are represented by roman numerals that indicate the scale degree on which they are built. Uppercase roman numerals are used for major triads; lowercase roman numerals are used for minor triads. Diminished triads are represented by lowercase roman numerals, with the addition of a small degree sign, “$^\circ$.”
+
+<img src="/assets/images/romanNumerals.png"/>
+
+#### Introduction to Harmonic Analysis
+
+1. *Determine the key of the exercise*.
+2. *Write out the letter name of the key*, immediately followed by a colon, at the beginning of the exercise, under the bass staff.
+3. *Identify triad roots, using roman numerals under each harmony*.
+4. *Do not renotate the roman numeral if a chord is immediately repeated*; you can simply draw a horizontal line that indicates the harmony is repeated.
+5. If the triad is in root position, you need do nothing more. If the triad is inverted, supply a figured bass. Use the abbreviation “6” for the figure “$_3^6$” Example 3.15 shows sample harmonic analyses.
+
+## Seventh Chords
+
+Sonorities with four notes that can be stacked in thirds are called *seventh chords*.
+
+Seventh chords are named according to the quality of the triad and the size of the seventh:
+1. major-major seventh chord (MM 7th), called a **major seventh chord**. It is more strident than major-minor seventh chords, and is ocassionally used in common-practice but more used in 20th-century music.
+2. major-minor seventh chord (Mm 7th), called a major-minor seventh chord (or a **dominant seventh chord**). It is the most common seventh chord in tonal music.
+3. minor-minor seventh chord (mm 7th), called a **minor seventh chord**. It is very soft-sounding and less dissonan than that of the major seventh.
+4. diminished-minor seventh chord (dm 7th, $^\varnothing$7), called a **half-diminished seventh chord**. It is a mix of effects. The dissinant triad is balanced with a less dissonant seventh. It occurs in both common-practice music and 20th-century music;
+5. diminished-diminished seventh chord (dd 7th, $^\circ$7), sometimes called a fully diminished seventh chord but most often simply called a **diminished seventh chord**. It is the most dissonant seventh chord. It is found in late-Baroque works and throughout the Classical and Romantic eras.
+
+<img src="/assets/images/seventhChordsTypes.png"/>
+
+### Inverted Seventh Chords
+
+<img src="/assets/images/inverted7th.png"/>
+
+The root of the chord is the lower note of the seventh or the upper note of the second.
+
+Composers may omit the fifth and double the root when writing root-position seventh chords, but they almost always use the complete harmonies for inverted seventh chords.
+
+### Sevent Chords and Harmnic Analysis
+
+- Mm and MM seventh chords require uppercase roman numerals.
+- mm, dm, and dd seventh chords require lowercase roman numerals.
+- dd seventh chords also require a degree sign ($^\circ$) to indicate a diminished triad and seventh.
+- dm seventh chords require a slash through the degree sign ($^\varnothing$) to indicate that the sonority is half diminished.
+
+<img src="/assets/images/seventhChordHA.png"/>
+
+## Musical Texture
+
+**Texture** refers to many elements of music, including register and timbre of instrumental combinations. But in particular, texture refers to music’s density (e.g., the number of voices and their spacing).
+
+We can group types of muscial texture into three basic categories.
+1. **Monophonic  texture**: a single-line melody with no accompaniment.
+2. **Polyphonic texture**, also called **contrapuntal texture**: the combination of two or more melodies so there is no clear distinction between melody and accompaniment.
+3. **Homophonic texture**: usually a clear melody accompanied by additional voices. It is a cross between monophonic and polyphonic textures.
+
+### Analytical Method
+
+The rate of harmonic change is called **harmonic rhythm**.
+
+#### Distribution of Chord Tones and Implied Harmonies
+
+Members of a chord in homophonic texture are usually distributed to different registers and instruments.
+
+#### Fluency
+
+Read pitches in bass and treble clef quickly, and attain a solid working knowledge of both alto and tenor clefs.
+
+Develop the abilty to scan music quickly and identify patterns and repetitions.
+
+#### Harmonic Reduction
+
+Often it is helpful to simplify dense homophonic and polyphonic textures by notating the underlying harmony in close position on a piece of manuscript paper.
+
 *To be continued...*
