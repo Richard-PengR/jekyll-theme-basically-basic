@@ -233,7 +233,7 @@ A figured bass has two components:
 
 Root position yield the figure $^5_3$, first inversion $^6_3$, second inversion $^6_4$. To fill out a figured bass to chords is to **realize** a figured bass.
 
-<img src="assets/images/figuredBass.png"/>
+<img src="/assets/images/figuredBass.png"/>
 
 #### Additional Figured Bass Conventions
 
