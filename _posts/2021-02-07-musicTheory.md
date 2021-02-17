@@ -304,7 +304,7 @@ The root of the chord is the lower note of the seventh or the upper note of the 
 
 Composers may omit the fifth and double the root when writing root-position seventh chords, but they almost always use the complete harmonies for inverted seventh chords.
 
-### Sevent Chords and Harmnic Analysis
+### Seventh Chords and Harmonic Analysis
 
 - Mm and MM seventh chords require uppercase roman numerals.
 - mm, dm, and dd seventh chords require lowercase roman numerals.
