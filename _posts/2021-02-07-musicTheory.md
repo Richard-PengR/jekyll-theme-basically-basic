@@ -238,8 +238,8 @@ Root position yield the figure $^5_3$, first inversion $^6_3$, second inversion 
 #### Additional Figured Bass Conventions
 
 **Abbreviations**:
-- "$^5_3$" can be omitted entirely.
-- "$^6_3$" can be omitted to "6".
+- "$_3^5$" can be omitted entirely.
+- "$_3^6$" can be omitted to "6".
 - We do not abbeviate a second-inversion triad.
 
 <img src="/assets/images/fb1.png"/>
