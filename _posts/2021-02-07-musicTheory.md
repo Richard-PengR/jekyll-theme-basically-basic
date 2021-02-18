@@ -225,7 +225,7 @@ In first inversion, major and minor chords are less stable than in root position
 
 In second inversion, major and minor chords are regarded as dissonant because the perfect fourth is now formed with the bass. Notice that tridas in root position and first inversion are common in tonal music, while second inversion second-inversion triads occur only in restricted contexts.
 
-### Figured bass
+### Figured Bass
 
 A figured bass has two components:
 1. A bass note.
