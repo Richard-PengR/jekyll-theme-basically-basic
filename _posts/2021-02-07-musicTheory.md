@@ -290,7 +290,7 @@ Sonorities with four notes that can be stacked in thirds are called *seventh cho
 Seventh chords are named according to the quality of the triad and the size of the seventh:
 1. major-major seventh chord (MM 7th), called a **major seventh chord**. It is more strident than major-minor seventh chords, and is ocassionally used in common-practice but more used in 20th-century music.
 2. major-minor seventh chord (Mm 7th), called a major-minor seventh chord (or a **dominant seventh chord**). It is the most common seventh chord in tonal music.
-3. minor-minor seventh chord (mm 7th), called a **minor seventh chord**. It is very soft-sounding and less dissonan than that of the major seventh.
+3. minor-minor seventh chord (mm 7th), called a **minor seventh chord**. It is very soft-sounding and less dissonant than that of the major seventh.
 4. diminished-minor seventh chord (dm 7th, $^\varnothing$7), called a **half-diminished seventh chord**. It is a mix of effects. The dissinant triad is balanced with a less dissonant seventh. It occurs in both common-practice music and 20th-century music;
 5. diminished-diminished seventh chord (dd 7th, $^\circ$7), sometimes called a fully diminished seventh chord but most often simply called a **diminished seventh chord**. It is the most dissonant seventh chord. It is found in late-Baroque works and throughout the Classical and Romantic eras.
 
